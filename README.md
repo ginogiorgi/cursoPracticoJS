@@ -1,2 +1,2 @@
 # cursoPracticoJS
-Archivos que use en el curso practico de javascript de Platzi.
+Practica de Github cursoPractico js
